@@ -7,8 +7,9 @@
 * [Example app that generates HTML and runs a test suite](https://github.com/lihaoyi/scala-native-example-app)
 
 ## Functional Programming
+* [Shapeless](https://github.com/milessabin/shapeless): Library for generic programming
 * [Squants](https://github.com/typelevel/squants): DSL for quantities, units of measure and dimensional analysis
-* [scalaz](https://github.com/scalaz/scalaz)
+* [scalaz](https://github.com/scalaz/scalaz): Type classes and instances for data structures
 * [nobox](https://github.com/xuwei-k/nobox): Immutable primitive array wrapper for Scala
 * [PPrint](https://github.com/lihaoyi/PPrint): Pretty-print values and types
 * [SourceCode](https://github.com/lihaoyi/sourcecode): Implicits providing meta data similar to `__LINE__` in C
