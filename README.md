@@ -1,4 +1,7 @@
-# Scala Native resources and libraries
+# Awesome Scala Native [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+This is a list of Scala Native resources and libraries.
+
 ## Tutorials and Templates
 * [Official Giter8 template for a minimal Scala Native project](https://github.com/scala-native/scala-native.g8)
 * [Hands on Scala Native](https://github.com/MasseGuillaume/hands-on-scala-native)
