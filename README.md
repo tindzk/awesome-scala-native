@@ -35,6 +35,7 @@
 * [Pine](https://github.com/sparsetech/pine): HTML and XML parsing, manipulation and rendering
 * [scala-json](https://github.com/MediaMath/scala-json): JSON parser
 * [toml-scala](https://github.com/sparsetech/toml-scala): TOML parser with codec derivation
+* [argonaut](https://github.com/argonaut-io/argonaut): Purely functional JSON parser and library
 
 ## Databases
 * [JDBC](https://github.com/jokade/scalanative-jdbc)
