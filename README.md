@@ -44,6 +44,9 @@ This is a list of Scala Native resources and libraries.
 ## Databases
 * [JDBC](https://github.com/jokade/scalanative-jdbc)
 
+## Functional Reactive Programming
+* [reactify](https://github.com/outr/reactify): The first and only true Functional Reactive Programming framework for Scala.
+
 ## Logging
 * [slogging](https://github.com/jokade/slogging): Typesafe-logging (and slf4j) compatible logging library based on macros
 
