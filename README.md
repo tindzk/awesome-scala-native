@@ -28,6 +28,7 @@ This is a list of Scala Native resources and libraries.
 * [nobox](https://github.com/xuwei-k/nobox): Immutable primitive array wrapper for Scala
 * [PPrint](https://github.com/lihaoyi/PPrint): Pretty-print values and types
 * [SourceCode](https://github.com/lihaoyi/sourcecode): Implicits providing meta data similar to `__LINE__` in C
+* [reactify](https://github.com/outr/reactify): Functional Reactive Programming framework for Scala
 
 ## Unit Tests
 * [utest](https://github.com/lihaoyi/utest)
@@ -57,9 +58,6 @@ This is a list of Scala Native resources and libraries.
 
 ## Databases
 * [JDBC](https://github.com/jokade/scalanative-jdbc)
-
-## Functional Reactive Programming
-* [reactify](https://github.com/outr/reactify): The first and only true Functional Reactive Programming framework for Scala.
 
 ## Logging
 * [slogging](https://github.com/jokade/slogging): Typesafe-logging (and slf4j) compatible logging library based on macros
