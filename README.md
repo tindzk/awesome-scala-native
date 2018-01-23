@@ -71,7 +71,7 @@ This is a list of Scala Native resources and libraries.
 * [k8s-cli](https://github.com/fsat/k8s-cli): CLI tools to generate Kubernetes resources for Akka, Play and Lagom-based applications
 
 ## Infrastructure
-* [scala-native-sbt-docker](https://github.com/ScalaWilliam/scala-native-sbt-docker)
+* [scala-native-sbt-docker](https://github.com/ScalaWilliam/scala-native-sbt-docker): Docker image for Scala Native and sbt
 
 ## Licence
 <a rel="licence" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licenced under a <a rel="licence" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>.
