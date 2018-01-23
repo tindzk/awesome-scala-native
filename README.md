@@ -2,6 +2,18 @@
 
 This is a list of Scala Native resources and libraries.
 
+## Table of Contents
+* [Tutorials and Templates](#tutorials-and-templates)
+* [Functional Programming](#functional-programming)
+* [Unit Tests](#unit-tests)
+* [Bindings](#bindings)
+* [File Formats and Parsers](#file-formats-and-parsers)
+* [Databases](#databases)
+* [Logging](#logging)
+* [Console](#console)
+* [Programs](#programs)
+* [Infrastructure](#infrastructure)
+
 ## Tutorials and Templates
 * [Official Giter8 template for a minimal Scala Native project](https://github.com/scala-native/scala-native.g8)
 * [Hands on Scala Native](https://github.com/MasseGuillaume/hands-on-scala-native)
