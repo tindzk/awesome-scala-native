@@ -54,7 +54,7 @@ This is a list of Scala Native resources and libraries.
 * [toml-scala](https://github.com/sparsetech/toml-scala): TOML parser with codec derivation
 * [argonaut](https://github.com/argonaut-io/argonaut): Purely functional JSON parser and library
 * [ScalaPB](https://github.com/scalapb/ScalaPB): Protocol buffer compiler for Scala
-* [scalapb-argonaut](https://github.com/scalapb-json/scalapb-argonaut) Json/Protobuf convertors for ScalaPB use argonaut
+    * [scalapb-argonaut](https://github.com/scalapb-json/scalapb-argonaut) JSON/Protobuf convertors for ScalaPB based on Argonaut
 
 ## Databases
 * [JDBC](https://github.com/jokade/scalanative-jdbc)
