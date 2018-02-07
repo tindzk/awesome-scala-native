@@ -45,6 +45,7 @@ This is a list of Scala Native resources and libraries.
 * [msgpack4z](https://github.com/msgpack4z/msgpack4z-native)
 * [GNU Scientific Library](https://github.com/ruivieira/scala-gsl)
 * [BLAS](https://github.com/ekrich/scala-native-ml)
+* [Gtk+](https://github.com/jokade/scalanative-gtk)
 
 ## File Formats and Parsers
 * [FastParse](https://github.com/lihaoyi/fastparse): Parsing library
