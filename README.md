@@ -67,6 +67,10 @@ This is a list of Scala Native resources and libraries.
 * [fansi](https://github.com/lihaoyi/fansi): Creating ANSI-coloured strings
 * [scopt](https://github.com/scopt/scopt): Command-line argument parser
 
+## Robotics
+* [Potassium](https://github.com/Team846/potassium): Framework for writing robot software
+* [WPILib](https://github.com/Team846/scala-native-wpilib): Reimplementation of the FIRST Robotics WPILib libraries
+
 ## Programs
 * [sglgears](https://github.com/Milyardo/sglgears)
 * [k8s-cli](https://github.com/fsat/k8s-cli): CLI tools to generate Kubernetes resources for Akka, Play and Lagom-based applications
