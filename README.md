@@ -29,6 +29,7 @@ This is a list of Scala Native resources and libraries.
 * [PPrint](https://github.com/lihaoyi/PPrint): Pretty-print values and types.
 * [SourceCode](https://github.com/lihaoyi/sourcecode): Implicits providing meta data similar to `__LINE__` in C.
 * [reactify](https://github.com/outr/reactify): Functional Reactive Programming framework for Scala.
+* [chimney](https://github.com/scalalandio/chimney): Scala library for boilerplate-free data transformations
 
 ## Unit Tests
 * [utest](https://github.com/lihaoyi/utest): Library for unit tests.
