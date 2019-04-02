@@ -86,8 +86,7 @@
 * [fansi](https://github.com/lihaoyi/fansi) - Library for creating [ANSI-coloured strings](https://en.wikipedia.org/wiki/ANSI_escape_code).
 * [scopt](https://github.com/scopt/scopt) - Command-line argument parser.
 * [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) - Port of Haskell's CLI argument parsing library [optparse-applicative](https://hackage.haskell.org/package/optparse-applicative).
-* [scallop](https://github.com/scallop/scallop) - A simple Scala CLI parsing library
-
+* [scallop](https://github.com/scallop/scallop) - A simple Scala CLI parsing library.
 
 ## Robotics
 * [Potassium](https://github.com/Team846/potassium) - Framework for writing robot software.
