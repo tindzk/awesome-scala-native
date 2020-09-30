@@ -88,7 +88,7 @@
 ## Web Development
 * [Trail](https://github.com/sparsetech/trail) - Routing library.
 * [sttp](https://github.com/softwaremill/sttp) - HTTP Client library.
-* [snunit](https://github.com/lolgab/snuni) - Scala Native HTTP server based on NGINX Unit.
+* [snunit](https://github.com/lolgab/snunit) - Scala Native HTTP server based on NGINX Unit.
 
 ## Concurrency
 * [scala-native-loop](https://github.com/scala-native/scala-native-loop) - Event loop and async-oriented IO for Scala Native
