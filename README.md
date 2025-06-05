@@ -4,19 +4,23 @@
 [Scala Native](http://www.scala-native.org/) is an optimising ahead-of-time compiler for the [Scala programming language](https://www.scala-lang.org/). Traditionally, a virtual machine, the [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine), was required to run Scala programs. Scala Native taps into the compiler to emit [LLVM intermediate representation](http://llvm.org/docs/LangRef.html) rather than JVM bytecode. Then, the [LLVM](http://llvm.org/) compiler infrastructure is used to produce native libraries and executables. Given that Scala Native executables are stand-alone programs, they generally have a shorter start-up time and low memory consumption. This opens up new avenues to deploy Scala programs where previously the virtual machine would be the limiting factor. For example, developers could write programs for the command line or embedded devices.
 
 ## Contents
-* [Tutorials and Examples](#tutorials-and-examples)
-* [Build Tools](#build-tools)
-* [Functional Programming](#functional-programming)
-* [Unit Tests](#unit-tests)
-* [Bindings](#bindings)
-* [File Formats and Parsers](#file-formats-and-parsers)
-* [Databases](#databases)
-* [Web Development](#web-development)
-* [Logging](#logging)
-* [Console](#console)
-* [Robotics](#robotics)
-* [Programs](#programs)
-* [Infrastructure](#infrastructure)
+- [Awesome Scala Native ](#awesome-scala-native-)
+  - [Contents](#contents)
+  - [Tutorials and Examples](#tutorials-and-examples)
+  - [Build Tools](#build-tools)
+  - [Functional Programming](#functional-programming)
+  - [Unit Tests](#unit-tests)
+  - [Bindings](#bindings)
+  - [File Formats and Parsers](#file-formats-and-parsers)
+  - [Databases](#databases)
+  - [Web Development](#web-development)
+  - [Concurrency](#concurrency)
+  - [Logging](#logging)
+  - [Console](#console)
+  - [Robotics](#robotics)
+  - [Programs](#programs)
+  - [Infrastructure](#infrastructure)
+  - [Licence](#licence)
 
 ## Tutorials and Examples
 * [Giter8 template for a minimal Scala Native project](https://github.com/scala-native/scala-native.g8) - Official [Giter8](http://www.foundweekends.org/giter8/) template for a minimal Scala Native project.
@@ -84,7 +88,7 @@
 * [scalatags](https://github.com/com-lihaoyi/scalatags) - HTML/XML construction and rendering.
 * [Pine](https://github.com/sparsetech/pine) - HTML/XML parsing, manipulation and rendering.
 * [scala-json](https://github.com/MediaMath/scala-json) - JSON parser.
-* [uJson](https://com-lihaoyi.github.io/upickle/#uJson) - fast, flexible and intuitive JSON for Scala
+* [uPickle](https://github.com/com-lihaoyi/upickle) - uPickle: a simple, fast, dependency-free JSON & Binary (MessagePack) serialization library for Scala
 * [toml-scala](https://github.com/sparsetech/toml-scala) - [TOML](https://github.com/toml-lang/toml) parser with codec derivation.
 * [argonaut](https://github.com/argonaut-io/argonaut) - Purely functional JSON parser and library.
 * [ScalaPB](https://github.com/scalapb/ScalaPB) - [Protocol Buffer](https://developers.google.com/protocol-buffers/) compiler for Scala.
@@ -93,9 +97,10 @@
 * [squiggly](https://github.com/edadma/squiggly) - Cross-platform template language for Scala, inspired by Liquid and Hugo templates.
 
 ## Databases
-* [JDBC](https://github.com/jokade/scalanative-jdbc) - Port of the database access layer [JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity) to Scala Native.
+* [scala-native-jdbc](https://github.com/lolgab/scala-native-jdbc) - Port of the database access layer [JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity) to Scala Native.
 * [SQLite4S](https://github.com/david-bouyssie/sqlite4s) - Port of the Java library [Sqlite4java](https://bitbucket.org/almworks/sqlite4java). Includes bindings for the SQLite native library.
 * [libpq4s](https://github.com/david-bouyssie/libpq4s) - Scala wrapper around the async PostgreSQL C library libpq.
+* [skunk](https://github.com/typelevel/skunk) -  A data access library for Scala + Postgres.
 
 ## Web Development
 * [Trail](https://github.com/sparsetech/trail) - Routing library.
