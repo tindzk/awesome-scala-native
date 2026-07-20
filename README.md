@@ -110,6 +110,7 @@
 ## Concurrency
 * [scala-native-loop](https://github.com/scala-native/scala-native-loop) - Event loop and async-oriented IO for Scala Native
 * [castor](https://github.com/com-lihaoyi/castor) - Lightweight, typed Actor library for Scala.
+* [Leucine](https://github.com/devlaam/Leucine) - Small x-platform actor framework
 
 ## Logging
 * [scribe](https://github.com/outr/scribe) - Fast and simple logging library.
